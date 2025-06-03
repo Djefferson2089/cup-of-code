@@ -15,4 +15,8 @@ A command-line coffee machine simulation built in Python. This program allows us
 
     Graceful shutdown with an “off” command
 
-    Designed for beginner Python learners to practice conditionals, loops, and functions
+# Technologies:
+
+    Python 3
+
+    Simple CLI interface (no external libraries)
